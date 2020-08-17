@@ -4,4 +4,5 @@
 #### Стратегии загрузки шрифтов: https://htmlacademy.ru/blog/boost/frontend/fonts-loading.
 
 ***
-В случае чего можно почитать про предзагрузку шрифтов+unicode-range.
+В случае чего можно почитать про предзагрузку шрифтов+unicode-range+ассинхронная загрузка шрифтов.
+https://web.dev/preload-optional-fonts/
